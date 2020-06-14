@@ -36,7 +36,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Logar"/>
                                 <connections>
-                                    <segue destination="zaL-C6-PeJ" kind="show" id="wa0-ms-oF9"/>
+                                    <segue destination="s4e-U0-wh4" kind="show" id="RgE-FX-8zI"/>
                                 </connections>
                             </button>
                             <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="elF-ag-d7Y">
@@ -190,7 +190,24 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="G3Z-Vh-V41" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="960.86956521739137" y="297.32142857142856"/>
+            <point key="canvasLocation" x="1617" y="298"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="IsJ-EP-mD0">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Dtp-Tr-EdY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <navigationController id="s4e-U0-wh4" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="V2I-is-qdv"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Z7j-6z-TY5">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="zaL-C6-PeJ" kind="relationship" relationship="rootViewController" id="pPB-0W-fRS"/>
+                    </connections>
+                </navigationController>
+            </objects>
+            <point key="canvasLocation" x="922" y="298"/>
         </scene>
     </scenes>
 </document>
