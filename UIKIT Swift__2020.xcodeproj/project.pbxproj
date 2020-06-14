@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		53C988E42496B86F00F5F46E /* PrincipalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C988E32496B86F00F5F46E /* PrincipalViewController.swift */; };
 		BE81D17A2451040700C770B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D1792451040700C770B1 /* AppDelegate.swift */; };
 		BE81D17C2451040700C770B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D17B2451040700C770B1 /* SceneDelegate.swift */; };
 		BE81D17E2451040700C770B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D17D2451040700C770B1 /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		53C988E32496B86F00F5F46E /* PrincipalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrincipalViewController.swift; sourceTree = "<group>"; };
 		BE81D1762451040700C770B1 /* UIKIT Swift__2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIKIT Swift__2020.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE81D1792451040700C770B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BE81D17B2451040700C770B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				BE81D1822451040C00C770B1 /* Assets.xcassets */,
 				BE81D1842451040C00C770B1 /* LaunchScreen.storyboard */,
 				BE81D1872451040C00C770B1 /* Info.plist */,
-				53C988E32496B86F00F5F46E /* PrincipalViewController.swift */,
 			);
 			path = "UIKIT Swift__2020";
 			sourceTree = "<group>";
@@ -142,7 +139,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE81D17E2451040700C770B1 /* ViewController.swift in Sources */,
-				53C988E42496B86F00F5F46E /* PrincipalViewController.swift in Sources */,
 				BE81D17A2451040700C770B1 /* AppDelegate.swift in Sources */,
 				BE81D17C2451040700C770B1 /* SceneDelegate.swift in Sources */,
 			);
