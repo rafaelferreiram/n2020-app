@@ -65,6 +65,13 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Triagem Rapida" textAlignment="center" lineBreakMode="tailTruncation" highlighted="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CsJ-80-sKy">
+                                <rect key="frame" x="78" y="135" width="277" height="84"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="ArialNarrow-Bold" family="Arial Narrow" pointSize="22"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="zeK-RQ-YL5"/>
@@ -79,10 +86,10 @@
             </objects>
             <point key="canvasLocation" x="200.00000000000003" y="297.32142857142856"/>
         </scene>
-        <!--View Controller-->
+        <!--Triagem View Controller-->
         <scene sceneID="VSu-2B-tKG">
             <objects>
-                <viewController id="zaL-C6-PeJ" sceneMemberID="viewController">
+                <viewController id="zaL-C6-PeJ" customClass="TriagemViewController" customModule="UIKIT_Swift__2020" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Pei-eT-7Kr">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
