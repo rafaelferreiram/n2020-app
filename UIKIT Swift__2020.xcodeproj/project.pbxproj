@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		357C71E02496E8C400353856 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357C71DF2496E8C400353856 /* MenuViewController.swift */; };
 		357C71E22496EB2C00353856 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357C71E12496EB2C00353856 /* RoundButton.swift */; };
+		357C71E42496F08700353856 /* RoundInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357C71E32496F08700353856 /* RoundInput.swift */; };
 		53C988E62496BDB000F5F46E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C988E52496BDB000F5F46E /* LoginViewController.swift */; };
 		53C988EA2496C8B400F5F46E /* TriagemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C988E92496C8B400F5F46E /* TriagemViewController.swift */; };
 		BE81D17A2451040700C770B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D1792451040700C770B1 /* AppDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		357C71DF2496E8C400353856 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		357C71E12496EB2C00353856 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		357C71E32496F08700353856 /* RoundInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundInput.swift; sourceTree = "<group>"; };
 		53C988E52496BDB000F5F46E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		53C988E92496C8B400F5F46E /* TriagemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriagemViewController.swift; sourceTree = "<group>"; };
 		BE81D1762451040700C770B1 /* UIKIT Swift__2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIKIT Swift__2020.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,6 +74,7 @@
 				BE81D17F2451040700C770B1 /* Main.storyboard */,
 				53C988E52496BDB000F5F46E /* LoginViewController.swift */,
 				357C71E12496EB2C00353856 /* RoundButton.swift */,
+				357C71E32496F08700353856 /* RoundInput.swift */,
 				BE81D1822451040C00C770B1 /* Assets.xcassets */,
 				BE81D1842451040C00C770B1 /* LaunchScreen.storyboard */,
 				BE81D1872451040C00C770B1 /* Info.plist */,
@@ -153,6 +156,7 @@
 				53C988E62496BDB000F5F46E /* LoginViewController.swift in Sources */,
 				357C71E02496E8C400353856 /* MenuViewController.swift in Sources */,
 				357C71E22496EB2C00353856 /* RoundButton.swift in Sources */,
+				357C71E42496F08700353856 /* RoundInput.swift in Sources */,
 				BE81D17E2451040700C770B1 /* ViewController.swift in Sources */,
 				BE81D17A2451040700C770B1 /* AppDelegate.swift in Sources */,
 				53C988EA2496C8B400F5F46E /* TriagemViewController.swift in Sources */,
