@@ -9,7 +9,7 @@
 import UIKit
 
 class TriagemViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }

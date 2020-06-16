@@ -12,6 +12,7 @@
 		357C71E42496F08700353856 /* RoundInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357C71E32496F08700353856 /* RoundInput.swift */; };
 		53C988E62496BDB000F5F46E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C988E52496BDB000F5F46E /* LoginViewController.swift */; };
 		53C988EA2496C8B400F5F46E /* TriagemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C988E92496C8B400F5F46E /* TriagemViewController.swift */; };
+		53C988EC2498422300F5F46E /* MinhasTriagensViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C988EB2498422300F5F46E /* MinhasTriagensViewController.swift */; };
 		BE81D17A2451040700C770B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D1792451040700C770B1 /* AppDelegate.swift */; };
 		BE81D17C2451040700C770B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D17B2451040700C770B1 /* SceneDelegate.swift */; };
 		BE81D17E2451040700C770B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81D17D2451040700C770B1 /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 		357C71E32496F08700353856 /* RoundInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundInput.swift; sourceTree = "<group>"; };
 		53C988E52496BDB000F5F46E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		53C988E92496C8B400F5F46E /* TriagemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriagemViewController.swift; sourceTree = "<group>"; };
+		53C988EB2498422300F5F46E /* MinhasTriagensViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinhasTriagensViewController.swift; sourceTree = "<group>"; };
 		BE81D1762451040700C770B1 /* UIKIT Swift__2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIKIT Swift__2020.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE81D1792451040700C770B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BE81D17B2451040700C770B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				53C988E92496C8B400F5F46E /* TriagemViewController.swift */,
 				BE81D17D2451040700C770B1 /* ViewController.swift */,
 				357C71DF2496E8C400353856 /* MenuViewController.swift */,
+				53C988EB2498422300F5F46E /* MinhasTriagensViewController.swift */,
 				BE81D17F2451040700C770B1 /* Main.storyboard */,
 				53C988E52496BDB000F5F46E /* LoginViewController.swift */,
 				357C71E12496EB2C00353856 /* RoundButton.swift */,
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				53C988E62496BDB000F5F46E /* LoginViewController.swift in Sources */,
+				53C988EC2498422300F5F46E /* MinhasTriagensViewController.swift in Sources */,
 				357C71E02496E8C400353856 /* MenuViewController.swift in Sources */,
 				357C71E22496EB2C00353856 /* RoundButton.swift in Sources */,
 				357C71E42496F08700353856 /* RoundInput.swift in Sources */,
